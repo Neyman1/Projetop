@@ -1,0 +1,26 @@
+.bloco{
+    width: 200px;
+    height: 100px;
+    border: black 2px solid;
+    overflow: auto;
+    display: inline-block;
+}
+
+div{
+    border: black 1px solid;
+    width: 80%;
+    margin: 0 0 auto;
+}
+
+.azul{
+    background-color: blue;
+}
+.vermelho{
+    background-color: red;
+}
+.amarelo{
+    background-color: yellow;
+}
+.verde{
+    background-color: green;
+}
